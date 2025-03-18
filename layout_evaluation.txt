@@ -1,0 +1,12 @@
+Layout Segmentation Evaluation Results
+=====================================
+
+Number of evaluated images: 82
+
+Average Metrics:
+--------------
+Pixel Accuracy: 0.9083 ± 0.0591
+IoU: 0.5751 ± 0.1789
+Precision: 0.6641 ± 0.1706
+Recall: 0.7872 ± 0.1905
+F1 Score: 0.7115 ± 0.1668
