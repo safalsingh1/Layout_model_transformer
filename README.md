@@ -59,6 +59,4 @@ For each input image, the script generates:
 - Images are processed in RGB format
 - The script automatically creates the output directory if it doesn't exist
 
-## License
 
-[Add your license information here]
